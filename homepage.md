@@ -21,8 +21,9 @@ key: page-homepage
 ---
 
 <img src= "./images/you.jpg" align=right width="180"/>
-## CHEN Jun
 Chenjun is a recent graduate with a Bachelor's degree in English from Dalian University of Foreign Languages. He is also a Master's student in TESOL at the University of Hong Kong, with experience in teaching English and conducting research projects.
+
+---
 
 ### Education Information
 * **Dalian University of Foreign Languages (DUFL)**  
