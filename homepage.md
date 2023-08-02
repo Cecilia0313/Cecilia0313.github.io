@@ -20,7 +20,7 @@ titles:
 key: page-homepage
 ---
 
-<img src= "./images/profile3.png" align=right width="180"/>
+<img src= "./images/you.jpg" align=right width="180"/>
 # CHEN Jun
 
 ### Contact Information
