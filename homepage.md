@@ -21,14 +21,8 @@ key: page-homepage
 ---
 
 <img src= "./images/you.jpg" align=right width="180"/>
-# CHEN Jun
-
-### Contact Information
-* Phone: (+86) 13674261887 
-* Email: chenjundufl@163.com
-
-### Other Information
-Recent Master's Graduate from the University of Hong Kong
+## CHEN Jun
+Chenjun is a recent graduate with a Bachelor's degree in English from Dalian University of Foreign Languages. He is also a Master's student in TESOL at the University of Hong Kong, with experience in teaching English and conducting research projects.
 
 ### Education Information
 * **Dalian University of Foreign Languages (DUFL)**  
@@ -136,3 +130,8 @@ Recent Master's Graduate from the University of Hong Kong
 * Reading: Enjoy reading books in various genres, including literature, history, and philosophy
 * Music: Play the guitar and enjoy listening to music in various styles, including classical, pop, and rock
 * Travel: Interested in exploring different cultures and customs through travel, and have traveled to Japan, South Korea, and other countries.
+
+
+### Contact Information
+* Phone: (+86) 13674261887 
+* Email: chenjundufl@163.com
