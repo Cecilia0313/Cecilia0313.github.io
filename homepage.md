@@ -26,13 +26,9 @@ Chenjun is a recent graduate with a Bachelor's degree in English from Dalian Uni
 ---
 
 ### Education Information
-* **Dalian University of Foreign Languages (DUFL)**  
-  Software Engineering (Enhanced in Japanese and English)  
-  2017.09 - 2018.06
-
 * **Dalian University of Foreign Languages**  
   English, Bachelor of Arts, GPA: 3.65/4  
-  2018.09 - 2022.06
+  2017.09 - 2022.06
 
 * **The University of Hong Kong (HKU)**  
   TESOL (Teaching English to Speakers of Other Languages), Master of Arts  
